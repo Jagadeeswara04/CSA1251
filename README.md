@@ -1,2 +1,2 @@
-# CSA1251
-Computer Architecture 
+# Computer Architecture 
+CSA1251
